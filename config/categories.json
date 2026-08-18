@@ -1,0 +1,1227 @@
+{
+  "kvartira_prodazha_vtorichka": {
+    "node_id": "67067",
+    "Category": "Квартиры",
+    "OperationType": "Продам",
+    "MarketType": "Вторичка",
+    "commission": null,
+    "required_fields": [
+      {
+        "tag": "HouseType",
+        "label": "Тип дома",
+        "values": [
+          "Кирпичный",
+          "Панельный",
+          "Блочный",
+          "Монолитный",
+          "Монолитно-кирпичный",
+          "Деревянный"
+        ]
+      },
+      {
+        "tag": "Floor",
+        "label": "Этаж",
+        "values": null
+      },
+      {
+        "tag": "Floors",
+        "label": "Этажей в доме",
+        "values": null
+      },
+      {
+        "tag": "Rooms",
+        "label": "Количество комнат",
+        "values": [
+          "Студия",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10 и более",
+          "Своб. планировка"
+        ]
+      },
+      {
+        "tag": "Square",
+        "label": "Общая площадь",
+        "values": null
+      },
+      {
+        "tag": "KitchenSpace",
+        "label": "Площадь кухни",
+        "values": null
+      },
+      {
+        "tag": "Status",
+        "label": "Статус",
+        "values": [
+          "Квартира",
+          "Апартаменты"
+        ]
+      },
+      {
+        "tag": "RoomType",
+        "label": "Тип комнат",
+        "values": [
+          "Изолированные",
+          "Смежные"
+        ]
+      },
+      {
+        "tag": "Renovation",
+        "label": "Ремонт",
+        "values": [
+          "Требуется",
+          "Косметический",
+          "Евро",
+          "Дизайнерский"
+        ]
+      },
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "DealType",
+        "label": "Тип сделки",
+        "values": [
+          "Прямая продажа",
+          "Альтернативная"
+        ]
+      }
+    ]
+  },
+  "kvartira_prodazha_novostroyka": {
+    "node_id": "67066",
+    "Category": "Квартиры",
+    "OperationType": "Продам",
+    "MarketType": "Новостройка",
+    "commission": null,
+    "required_fields": [
+      {
+        "tag": "HouseType",
+        "label": "Тип дома",
+        "values": [
+          "Кирпичный",
+          "Панельный",
+          "Блочный",
+          "Монолитный",
+          "Монолитно-кирпичный",
+          "Деревянный"
+        ]
+      },
+      {
+        "tag": "Floor",
+        "label": "Этаж",
+        "values": null
+      },
+      {
+        "tag": "Floors",
+        "label": "Этажей в доме",
+        "values": null
+      },
+      {
+        "tag": "Rooms",
+        "label": "Количество комнат",
+        "values": [
+          "Студия",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10 и более",
+          "Своб. планировка"
+        ]
+      },
+      {
+        "tag": "Square",
+        "label": "Общая площадь",
+        "values": null
+      },
+      {
+        "tag": "Status",
+        "label": "Статус",
+        "values": [
+          "Квартира",
+          "Апартаменты"
+        ]
+      },
+      {
+        "tag": "NewDevelopmentId",
+        "label": "Id новостройки",
+        "values": null
+      },
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник",
+          "Застройщик"
+        ]
+      },
+      {
+        "tag": "Decoration",
+        "label": "Отделка",
+        "values": [
+          "Без отделки",
+          "Предчистовая",
+          "Чистовая"
+        ]
+      }
+    ]
+  },
+  "kvartira_arenda_posutochno": {
+    "node_id": "129617",
+    "Category": "Квартиры",
+    "OperationType": "Сдам",
+    "MarketType": null,
+    "commission": null,
+    "required_fields": [
+      {
+        "tag": "LeaseType",
+        "label": "Срок аренды",
+        "values": [
+          "Посуточно"
+        ]
+      },
+      {
+        "tag": "Floor",
+        "label": "Этаж",
+        "values": null
+      },
+      {
+        "tag": "Floors",
+        "label": "Этажей в доме",
+        "values": null
+      },
+      {
+        "tag": "Rooms",
+        "label": "Количество комнат",
+        "values": [
+          "Студия",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10 и более",
+          "Своб. планировка"
+        ]
+      },
+      {
+        "tag": "Square",
+        "label": "Общая площадь",
+        "values": null
+      },
+      {
+        "tag": "ContactlessCheckIn",
+        "label": "Бесконтактное заселение",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "SmokingAllowed",
+        "label": "Можно курить",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "ChildrenAllowed",
+        "label": "Можно с детьми",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "PetsAllowed",
+        "label": "Можно с питомцем",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      }
+    ]
+  },
+  "kvartira_arenda_dlitelno": {
+    "node_id": "129618",
+    "Category": "Квартиры",
+    "OperationType": "Сдам",
+    "MarketType": null,
+    "commission": {
+      "presence_tag": null,
+      "size_tag": "LeaseCommissionSize"
+    },
+    "required_fields": [
+      {
+        "tag": "RoomType",
+        "label": "Тип комнат",
+        "values": [
+          "Изолированные",
+          "Смежные"
+        ]
+      },
+      {
+        "tag": "Renovation",
+        "label": "Ремонт",
+        "values": [
+          "Требуется",
+          "Косметический",
+          "Евро",
+          "Дизайнерский"
+        ]
+      },
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "LeaseType",
+        "label": "Срок аренды",
+        "values": [
+          "На длительный срок"
+        ]
+      },
+      {
+        "tag": "HouseType",
+        "label": "Тип дома",
+        "values": [
+          "Кирпичный",
+          "Панельный",
+          "Блочный",
+          "Монолитный",
+          "Монолитно-кирпичный",
+          "Деревянный"
+        ]
+      },
+      {
+        "tag": "Floor",
+        "label": "Этаж",
+        "values": null
+      },
+      {
+        "tag": "Floors",
+        "label": "Этажей в доме",
+        "values": null
+      },
+      {
+        "tag": "Rooms",
+        "label": "Количество комнат",
+        "values": [
+          "Студия",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10 и более",
+          "Своб. планировка"
+        ]
+      },
+      {
+        "tag": "Square",
+        "label": "Общая площадь",
+        "values": null
+      },
+      {
+        "tag": "DepositAmount",
+        "label": "Сумма залога",
+        "values": null
+      },
+      {
+        "tag": "KitchenSpace",
+        "label": "Площадь кухни",
+        "values": null
+      },
+      {
+        "tag": "UtilityMeters",
+        "label": "Оплата по счетчикам",
+        "values": [
+          "Оплачивается арендатором",
+          "Оплачивается собственником"
+        ]
+      },
+      {
+        "tag": "OtherUtilities",
+        "label": "Другие ЖКУ",
+        "values": [
+          "Оплачивается арендатором",
+          "Оплачивается собственником"
+        ]
+      },
+      {
+        "tag": "OtherUtilitiesPayment",
+        "label": "Другие ЖКУ в месяц",
+        "values": null
+      },
+      {
+        "tag": "SmokingAllowed",
+        "label": "Можно курить",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "ChildrenAllowed",
+        "label": "Можно с детьми",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "PetsAllowed",
+        "label": "Можно с питомцем",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      }
+    ]
+  },
+  "dom_prodazha": {
+    "node_id": "67060",
+    "Category": "Дома, дачи, коттеджи",
+    "OperationType": "Продам",
+    "MarketType": null,
+    "commission": null,
+    "required_fields": [
+      {
+        "tag": "Rooms",
+        "label": "Количество комнат",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10 и более",
+          "Свободная планировка"
+        ]
+      },
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "ObjectType",
+        "label": "Вид объекта",
+        "values": [
+          "Дом",
+          "Дача",
+          "Коттедж",
+          "Таунхаус"
+        ]
+      },
+      {
+        "tag": "Floors",
+        "label": "Этажей в доме",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4 и более"
+        ]
+      },
+      {
+        "tag": "WallsType",
+        "label": "Материал стен",
+        "values": [
+          "Кирпич",
+          "Брус",
+          "Бревно",
+          "Газоблоки",
+          "Металл",
+          "Пеноблоки",
+          "Сэндвич-панели",
+          "Ж/б панели",
+          "Экспериментальные материалы"
+        ]
+      },
+      {
+        "tag": "Square",
+        "label": "Площадь дома",
+        "values": null
+      },
+      {
+        "tag": "LandArea",
+        "label": "Площадь участка",
+        "values": null
+      },
+      {
+        "tag": "LandStatus",
+        "label": "Категория земель",
+        "values": [
+          "Индивидуальное жилищное строительство (ИЖС)",
+          "Садовое некоммерческое товарищество (СНТ)",
+          "Дачное некоммерческое партнёрство (ДНП)",
+          "Фермерское хозяйство",
+          "Личное подсобное хозяйство (ЛПХ)"
+        ]
+      },
+      {
+        "tag": "Renovation",
+        "label": "Ремонт",
+        "values": [
+          "Требуется",
+          "Косметический",
+          "Евро",
+          "Дизайнерский"
+        ]
+      }
+    ]
+  },
+  "dom_arenda_posutochno": {
+    "node_id": "67062",
+    "Category": "Дома, дачи, коттеджи",
+    "OperationType": "Сдам",
+    "MarketType": null,
+    "commission": null,
+    "required_fields": [
+      {
+        "tag": "Rooms",
+        "label": "Количество комнат",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10 и более",
+          "Свободная планировка"
+        ]
+      },
+      {
+        "tag": "LeaseType",
+        "label": "Срок аренды",
+        "values": [
+          "Посуточно"
+        ]
+      },
+      {
+        "tag": "ObjectType",
+        "label": "Вид объекта",
+        "values": [
+          "Дом",
+          "Дача",
+          "Коттедж",
+          "Таунхаус",
+          "Глэмпинг",
+          "Гостевой дом",
+          "База отдыха"
+        ]
+      },
+      {
+        "tag": "Floors",
+        "label": "Этажей в доме",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4 и более"
+        ]
+      },
+      {
+        "tag": "LandArea",
+        "label": "Площадь участка",
+        "values": null
+      },
+      {
+        "tag": "LeaseSleepingPlaces",
+        "label": "Кол-во спальных мест",
+        "values": null
+      },
+      {
+        "tag": "DepositAmount",
+        "label": "Сумма залога",
+        "values": null
+      },
+      {
+        "tag": "PartiesAllowed",
+        "label": "Разрешены вечеринки и мероприятия",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "Documents",
+        "label": "Есть отчётные документы",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      }
+    ]
+  },
+  "dom_arenda_dlitelno": {
+    "node_id": "67063",
+    "Category": "Дома, дачи, коттеджи",
+    "OperationType": "Сдам",
+    "MarketType": null,
+    "commission": {
+      "presence_tag": null,
+      "size_tag": "LeaseCommissionSize"
+    },
+    "required_fields": [
+      {
+        "tag": "Rooms",
+        "label": "Количество комнат",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10 и более",
+          "Свободная планировка"
+        ]
+      },
+      {
+        "tag": "Renovation",
+        "label": "Ремонт",
+        "values": [
+          "Требуется",
+          "Косметический",
+          "Евро",
+          "Дизайнерский"
+        ]
+      },
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "LeaseType",
+        "label": "Срок аренды",
+        "values": [
+          "На длительный срок"
+        ]
+      },
+      {
+        "tag": "ObjectType",
+        "label": "Вид объекта",
+        "values": [
+          "Дом",
+          "Дача",
+          "Коттедж",
+          "Таунхаус"
+        ]
+      },
+      {
+        "tag": "Floors",
+        "label": "Этажей в доме",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4 и более"
+        ]
+      },
+      {
+        "tag": "WallsType",
+        "label": "Материал стен",
+        "values": [
+          "Кирпич",
+          "Брус",
+          "Бревно",
+          "Газоблоки",
+          "Металл",
+          "Пеноблоки",
+          "Сэндвич-панели",
+          "Ж/б панели",
+          "Экспериментальные материалы"
+        ]
+      },
+      {
+        "tag": "LandArea",
+        "label": "Площадь участка",
+        "values": null
+      },
+      {
+        "tag": "DepositAmount",
+        "label": "Сумма залога",
+        "values": null
+      },
+      {
+        "tag": "UtilityMeters",
+        "label": "Оплата по счетчикам",
+        "values": [
+          "Оплачивается арендатором",
+          "Оплачивается собственником"
+        ]
+      },
+      {
+        "tag": "OtherUtilities",
+        "label": "Другие ЖКУ",
+        "values": [
+          "Оплачивается арендатором",
+          "Оплачивается собственником"
+        ]
+      },
+      {
+        "tag": "OtherUtilitiesPayment",
+        "label": "Другие ЖКУ в месяц",
+        "values": null
+      },
+      {
+        "tag": "SmokingAllowed",
+        "label": "Можно курить",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "ChildrenAllowed",
+        "label": "Можно с детьми",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "PetsAllowed",
+        "label": "Можно с питомцем",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      }
+    ]
+  },
+  "uchastok_arenda": {
+    "node_id": "67070",
+    "Category": "Земельные участки",
+    "OperationType": "Сдам",
+    "MarketType": null,
+    "commission": {
+      "presence_tag": null,
+      "size_tag": "LeaseCommissionSize"
+    },
+    "required_fields": [
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "LandArea",
+        "label": "Площадь",
+        "values": null
+      },
+      {
+        "tag": "LeaseDeposit",
+        "label": "Залог",
+        "values": [
+          "Без залога",
+          "0,5 месяца",
+          "1 месяц",
+          "1,5 месяца",
+          "2 месяца",
+          "2,5 месяца",
+          "3 месяца"
+        ]
+      },
+      {
+        "tag": "ObjectType",
+        "label": "Категория земель",
+        "values": [
+          "Поселений (ИЖС)",
+          "Сельхозназначения (СНТ, ДНП)",
+          "Промназначения",
+          "Личное подсобное хозяйство (ЛПХ)"
+        ]
+      }
+    ]
+  },
+  "uchastok_prodazha": {
+    "node_id": "67071",
+    "Category": "Земельные участки",
+    "OperationType": "Продам",
+    "MarketType": null,
+    "commission": null,
+    "required_fields": [
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "LandArea",
+        "label": "Площадь",
+        "values": null
+      },
+      {
+        "tag": "ObjectType",
+        "label": "Категория земель",
+        "values": [
+          "Поселений (ИЖС)",
+          "Сельхозназначения (СНТ, ДНП)",
+          "Промназначения",
+          "Личное подсобное хозяйство (ЛПХ)"
+        ]
+      }
+    ]
+  },
+  "commercial_arenda": {
+    "node_id": "67086",
+    "Category": "Коммерческая недвижимость",
+    "OperationType": "Сдам",
+    "MarketType": null,
+    "commission": {
+      "presence_tag": "AgentLeaseCommissionPresence",
+      "size_tag": "AgentLeaseCommissionSize"
+    },
+    "required_fields": [
+      {
+        "tag": "ObjectType",
+        "label": "Вид объекта",
+        "values": [
+          "Офисное помещение",
+          "Помещение свободного назначения",
+          "Торговое помещение",
+          "Складское помещение",
+          "Производственное помещение",
+          "Помещение общественного питания",
+          "Гостиница",
+          "Автосервис",
+          "Здание",
+          "Коворкинг",
+          "Кладовая"
+        ]
+      },
+      {
+        "tag": "OfficeType",
+        "label": "Что сдаёте",
+        "values": [
+          "Помещение под офис",
+          "Только юридический адрес"
+        ]
+      },
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "Entrance",
+        "label": "Вход",
+        "values": [
+          "С улицы",
+          "Со двора"
+        ]
+      },
+      {
+        "tag": "Floor",
+        "label": "Этаж",
+        "values": null
+      },
+      {
+        "tag": "Layout",
+        "label": "Планировка",
+        "values": [
+          "Кабинетная",
+          "Открытая"
+        ]
+      },
+      {
+        "tag": "StorageRoomType",
+        "label": "Тип кладовой",
+        "values": [
+          "В жилом доме",
+          "В нежилом помещении",
+          "Другое"
+        ]
+      },
+      {
+        "tag": "Square",
+        "label": "Площадь",
+        "values": null
+      },
+      {
+        "tag": "Width",
+        "label": "Ширина",
+        "values": null
+      },
+      {
+        "tag": "Length",
+        "label": "Длина",
+        "values": null
+      },
+      {
+        "tag": "CeilingHeight",
+        "label": "Высота потолков",
+        "values": null
+      },
+      {
+        "tag": "Security",
+        "label": "Охрана",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "AccessSchedule",
+        "label": "Доступ",
+        "values": [
+          "24/7",
+          "По графику"
+        ]
+      },
+      {
+        "tag": "CarAccess",
+        "label": "Подъезд на машине",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "Decoration",
+        "label": "Отделка",
+        "values": [
+          "Без отделки",
+          "Чистовая",
+          "Офисная"
+        ]
+      },
+      {
+        "tag": "NumTax",
+        "label": "Номер налоговой",
+        "values": null
+      },
+      {
+        "tag": "Heating",
+        "label": "Отопление",
+        "values": null
+      },
+      {
+        "tag": "Lighting",
+        "label": "Освещение",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "PowerSockets",
+        "label": "Розетки",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "BuildingType",
+        "label": "Тип здания",
+        "values": [
+          "Бизнес-центр",
+          "Торговый центр",
+          "Административное здание",
+          "Жилой дом",
+          "Другой"
+        ]
+      },
+      {
+        "tag": "ParkingType",
+        "label": "Парковка (Single)",
+        "values": [
+          "Нет",
+          "На улице",
+          "В здании"
+        ]
+      },
+      {
+        "tag": "PlacesAmount",
+        "label": "Количество мест",
+        "values": null
+      },
+      {
+        "tag": "WeekendWork",
+        "label": "Работа в выходные",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "Working24Hours",
+        "label": "Круглосуточный режим",
+        "values": [
+          "Да",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "WorksFrom",
+        "label": "Время начала работы",
+        "values": null
+      },
+      {
+        "tag": "WorksTill",
+        "label": "Режим работы до",
+        "values": null
+      },
+      {
+        "tag": "PlaceType",
+        "label": "Статус места",
+        "values": [
+          "Закреплённое место",
+          "Плавающее место",
+          "Отдельный кабинет"
+        ]
+      },
+      {
+        "tag": "RoomArea",
+        "label": "Площадь кабинета",
+        "values": null
+      },
+      {
+        "tag": "PlacesInRoom",
+        "label": "Количество рабочих мест в кабинете",
+        "values": null
+      },
+      {
+        "tag": "RentalType",
+        "label": "Тип аренды",
+        "values": [
+          "Прямая",
+          "Субаренда"
+        ]
+      },
+      {
+        "tag": "MonthlyRentPerCubicMeter",
+        "label": "Арендная плата в месяц за куб. м, ₽",
+        "values": null
+      }
+    ]
+  },
+  "commercial_prodazha": {
+    "node_id": "67087",
+    "Category": "Коммерческая недвижимость",
+    "OperationType": "Продам",
+    "MarketType": null,
+    "commission": null,
+    "required_fields": [
+      {
+        "tag": "ObjectType",
+        "label": "Вид объекта",
+        "values": [
+          "Офисное помещение",
+          "Помещение свободного назначения",
+          "Торговое помещение",
+          "Складское помещение",
+          "Производственное помещение",
+          "Помещение общественного питания",
+          "Гостиница",
+          "Автосервис",
+          "Здание",
+          "Кладовая"
+        ]
+      },
+      {
+        "tag": "PropertyRights",
+        "label": "Право собственности",
+        "values": [
+          "Собственник",
+          "Посредник"
+        ]
+      },
+      {
+        "tag": "Entrance",
+        "label": "Вход",
+        "values": [
+          "С улицы",
+          "Со двора"
+        ]
+      },
+      {
+        "tag": "Floor",
+        "label": "Этаж",
+        "values": null
+      },
+      {
+        "tag": "Layout",
+        "label": "Планировка",
+        "values": [
+          "Кабинетная",
+          "Открытая"
+        ]
+      },
+      {
+        "tag": "StorageRoomType",
+        "label": "Тип кладовой",
+        "values": [
+          "В жилом доме",
+          "В нежилом помещении",
+          "Другое"
+        ]
+      },
+      {
+        "tag": "Square",
+        "label": "Площадь",
+        "values": null
+      },
+      {
+        "tag": "Width",
+        "label": "Ширина",
+        "values": null
+      },
+      {
+        "tag": "Length",
+        "label": "Длина",
+        "values": null
+      },
+      {
+        "tag": "CeilingHeight",
+        "label": "Высота потолков",
+        "values": null
+      },
+      {
+        "tag": "Security",
+        "label": "Охрана",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "AccessSchedule",
+        "label": "Доступ",
+        "values": [
+          "24/7",
+          "По графику"
+        ]
+      },
+      {
+        "tag": "CarAccess",
+        "label": "Подъезд на машине",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "Decoration",
+        "label": "Отделка",
+        "values": [
+          "Без отделки",
+          "Чистовая",
+          "Офисная"
+        ]
+      },
+      {
+        "tag": "Heating",
+        "label": "Отопление",
+        "values": null
+      },
+      {
+        "tag": "Lighting",
+        "label": "Освещение",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "PowerSockets",
+        "label": "Розетки",
+        "values": [
+          "Есть",
+          "Нет"
+        ]
+      },
+      {
+        "tag": "BuildingType",
+        "label": "Тип здания",
+        "values": [
+          "Бизнес-центр",
+          "Торговый центр",
+          "Административное здание",
+          "Жилой дом",
+          "Другой"
+        ]
+      },
+      {
+        "tag": "ParkingType",
+        "label": "Парковка (Single)",
+        "values": [
+          "Нет",
+          "На улице",
+          "В здании"
+        ]
+      },
+      {
+        "tag": "TransactionType",
+        "label": "Тип сделки",
+        "values": [
+          "Продажа",
+          "Переуступка права аренды"
+        ]
+      }
+    ]
+  }
+}
