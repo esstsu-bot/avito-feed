@@ -1,2 +1,36 @@
 <?xml version="1.0" ?>
-<Ads formatVersion="3" target="Avito.ru"/>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>office-plehanovskaya-53-zastava-8et</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Description>Сдаётся офисное помещение 73,8 м² на 8 этаже бизнес-центра «Застава» — Плехановская ул., 53, на пересечении с Донбасской, первая линия, центральная часть Воронежа.
+Планировка кабинетная, отделка офисная: стены окрашены, пол — наливной/линолеум, потолок «Армстронг» со встроенным освещением, кассетные кондиционеры в каждом кабинете, радиаторное отопление, стеклянные перегородки между кабинетами. Панорамный вид на город из окон.
+О здании: БЦ класса B, 2015 года постройки, 20 этажей, 3 лифта, пропускная система, наземная парковка на 70 машиномест, вход с улицы. В здании: стойка ресепшн, конференц-зал, кафе и ресторан, отель, салон красоты, аптека, нотариальная контора.
+Аренда: 1400 ₽/м² в месяц.</Description>
+    <Images/>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <Address>Воронеж, ул. Плехановская, 53, БЦ «Застава», 8 этаж</Address>
+    <Price>1400</Price>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
+    <ObjectType>Офисное помещение</ObjectType>
+    <OfficeType>Помещение под офис</OfficeType>
+    <Entrance>С улицы</Entrance>
+    <Floor>8</Floor>
+    <Layout>Кабинетная</Layout>
+    <Square>73.8</Square>
+    <Decoration>Офисная</Decoration>
+    <Security>Есть</Security>
+    <CarAccess>Есть</CarAccess>
+    <Lighting>Есть</Lighting>
+    <PowerSockets>Есть</PowerSockets>
+    <BuildingType>Бизнес-центр</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <PriceType>в месяц за м2</PriceType>
+  </Ad>
+</Ads>

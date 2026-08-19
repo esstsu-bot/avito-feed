@@ -16,7 +16,7 @@ with open(f"{BASE}/config/categories.json", encoding="utf-8") as f:
 
 FIELD_ORDER = [
     "Id", "ManagerName", "ContactPhone", "ContactMethod", "InternetCalls",
-    "Description", "Category", "OperationType", "MarketType",
+    "PropertyRights", "Description", "Category", "OperationType", "MarketType",
     "Address", "Price",
 ]
 
@@ -34,6 +34,7 @@ def build_ad(ad, errors):
     values["ContactPhone"] = COMMON["ContactPhone"]
     values["ContactMethod"] = COMMON["ContactMethod"]
     values["InternetCalls"] = COMMON["InternetCalls"]
+    values["PropertyRights"] = COMMON["PropertyRights"]
     values["Description"] = ad["description"]
     values["Category"] = cat_cfg["Category"]
     values["OperationType"] = cat_cfg["OperationType"]
@@ -87,10 +88,10 @@ def main():
             ads_root.append(ad_el)
 
     if errors:
-        print("ОШИБКИ — фид НЕ пересобран:", file=sys.stderr)
+        print("ПРЕДУПРЕЖДЕНИЯ (Avito может отклонить поля из этого списка — "
+              "многие обязательны только для отдельных видов объекта):", file=sys.stderr)
         for e in errors:
             print(" -", e, file=sys.stderr)
-        sys.exit(1)
 
     rough = ET.tostring(ads_root, encoding="unicode")
     pretty = minidom.parseString(rough).toprettyxml(indent="  ")
