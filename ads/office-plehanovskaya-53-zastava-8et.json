@@ -28,6 +28,7 @@
     "PowerSockets": "Есть",
     "BuildingType": "Бизнес-центр",
     "ParkingType": "На улице",
+    "RentalType": "Прямая",
     "PriceType": "в месяц за м2"
   }
 }

@@ -40,6 +40,7 @@
     <PowerSockets>Есть</PowerSockets>
     <BuildingType>Бизнес-центр</BuildingType>
     <ParkingType>На улице</ParkingType>
+    <RentalType>Прямая</RentalType>
     <PriceType>в месяц за м2</PriceType>
   </Ad>
 </Ads>
