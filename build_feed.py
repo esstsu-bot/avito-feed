@@ -50,6 +50,9 @@ def build_ad(ad, errors):
             values[commission["presence_tag"]] = "Да"
         values[commission["size_tag"]] = str(COMMON["commission_rental_percent"])
 
+    # постоянные значения для этой категории (никогда не меняются между объявлениями)
+    values.update(cat_cfg.get("defaults", {}))
+
     # категорийные поля из объявления
     fields = ad.get("fields", {})
     values.update(fields)

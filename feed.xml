@@ -27,6 +27,7 @@
     <Price>1400</Price>
     <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
+    <RentalType>Прямая</RentalType>
     <ObjectType>Офисное помещение</ObjectType>
     <OfficeType>Помещение под офис</OfficeType>
     <Entrance>С улицы</Entrance>
@@ -40,7 +41,6 @@
     <PowerSockets>Есть</PowerSockets>
     <BuildingType>Бизнес-центр</BuildingType>
     <ParkingType>На улице</ParkingType>
-    <RentalType>Прямая</RentalType>
     <PriceType>в месяц за м2</PriceType>
   </Ad>
 </Ads>

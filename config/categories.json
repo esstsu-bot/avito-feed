@@ -1057,7 +1057,10 @@
         "label": "Арендная плата в месяц за куб. м, ₽",
         "values": null
       }
-    ]
+    ],
+    "defaults": {
+      "RentalType": "Прямая"
+    }
   },
   "commercial_prodazha": {
     "node_id": "67087",
