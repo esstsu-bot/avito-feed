@@ -28,6 +28,8 @@
     <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
     <RentalType>Прямая</RentalType>
+    <RentalMinimumPeriod>11</RentalMinimumPeriod>
+    <LeaseDeposit>1 месяц</LeaseDeposit>
     <ObjectType>Офисное помещение</ObjectType>
     <OfficeType>Помещение под офис</OfficeType>
     <Entrance>С улицы</Entrance>
@@ -73,6 +75,8 @@
     <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
     <RentalType>Прямая</RentalType>
+    <RentalMinimumPeriod>11</RentalMinimumPeriod>
+    <LeaseDeposit>1 месяц</LeaseDeposit>
     <ObjectType>Офисное помещение</ObjectType>
     <OfficeType>Помещение под офис</OfficeType>
     <Entrance>С улицы</Entrance>

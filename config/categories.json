@@ -1059,7 +1059,9 @@
       }
     ],
     "defaults": {
-      "RentalType": "Прямая"
+      "RentalType": "Прямая",
+      "RentalMinimumPeriod": "11",
+      "LeaseDeposit": "1 месяц"
     }
   },
   "commercial_prodazha": {
