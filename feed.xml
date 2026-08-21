@@ -43,4 +43,49 @@
     <ParkingType>На улице</ParkingType>
     <PriceType>в месяц за м2</PriceType>
   </Ad>
+  <Ad>
+    <Id>office-trud-117-bc</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Description>Сдаётся блок офисных помещений 152,7 м² на 4 этаже бизнес-центра «117», Воронеж, проспект Труда, 117. Новый БЦ класса B+, сдан в 2025 году, 9 этажей, панорамное остекление, системы пожарной и охранной сигнализации.
+Блок сдаётся целиком, без разделения на отдельные кабинеты: 6 смежных помещений (415, 416, 417, 418, 419, 424а) общей площадью 152,7 м². Отделка готовая, в стиле лофт: открытая кирпичная кладка, технический чёрный потолок с открытыми коммуникациями, пол керамогранит.
+Предусмотрена возможность подведения воды в каждый офис блока, это позволяет использовать помещение под медицинскую клинику, а не только под классический офис.
+Аренда: 1400 ₽/м² в месяц.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/07.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/08.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/09.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/10-plan.jpg"/>
+    </Images>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <Address>Воронеж, проспект Труда, 117, БЦ «117», 4 этаж</Address>
+    <Price>1400</Price>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
+    <RentalType>Прямая</RentalType>
+    <ObjectType>Офисное помещение</ObjectType>
+    <OfficeType>Помещение под офис</OfficeType>
+    <Entrance>С улицы</Entrance>
+    <Floor>4</Floor>
+    <Layout>Кабинетная</Layout>
+    <Square>152.7</Square>
+    <Decoration>Офисная</Decoration>
+    <Security>Есть</Security>
+    <CarAccess>Есть</CarAccess>
+    <Lighting>Есть</Lighting>
+    <PowerSockets>Есть</PowerSockets>
+    <BuildingType>Бизнес-центр</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <PriceType>в месяц за м2</PriceType>
+  </Ad>
 </Ads>

@@ -1,0 +1,35 @@
+{
+  "id": "office-trud-117-bc",
+  "category": "commercial_arenda",
+  "address": "Воронеж, проспект Труда, 117, БЦ «117», 4 этаж",
+  "price": 1400,
+  "description": "Сдаётся блок офисных помещений 152,7 м² на 4 этаже бизнес-центра «117», Воронеж, проспект Труда, 117. Новый БЦ класса B+, сдан в 2025 году, 9 этажей, панорамное остекление, системы пожарной и охранной сигнализации.\n\nБлок сдаётся целиком, без разделения на отдельные кабинеты: 6 смежных помещений (415, 416, 417, 418, 419, 424а) общей площадью 152,7 м². Отделка готовая, в стиле лофт: открытая кирпичная кладка, технический чёрный потолок с открытыми коммуникациями, пол керамогранит.\n\nПредусмотрена возможность подведения воды в каждый офис блока, это позволяет использовать помещение под медицинскую клинику, а не только под классический офис.\n\nАренда: 1400 ₽/м² в месяц.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/01.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/02.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/03.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/04.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/05.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/06.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/07.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/08.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/09.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-trud-117-bc/10-plan.jpg"
+  ],
+  "fields": {
+    "ObjectType": "Офисное помещение",
+    "OfficeType": "Помещение под офис",
+    "Entrance": "С улицы",
+    "Floor": "4",
+    "Layout": "Кабинетная",
+    "Square": "152.7",
+    "Decoration": "Офисная",
+    "Security": "Есть",
+    "CarAccess": "Есть",
+    "Lighting": "Есть",
+    "PowerSockets": "Есть",
+    "BuildingType": "Бизнес-центр",
+    "ParkingType": "На улице",
+    "PriceType": "в месяц за м2"
+  }
+}
