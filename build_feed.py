@@ -16,7 +16,7 @@ with open(f"{BASE}/config/categories.json", encoding="utf-8") as f:
 
 FIELD_ORDER = [
     "Id", "ManagerName", "ContactPhone", "ContactMethod", "InternetCalls",
-    "PropertyRights", "Description", "Category", "OperationType", "MarketType",
+    "PropertyRights", "Title", "Description", "Category", "OperationType", "MarketType",
     "Address", "Price",
 ]
 
@@ -35,6 +35,8 @@ def build_ad(ad, errors):
     values["ContactMethod"] = COMMON["ContactMethod"]
     values["InternetCalls"] = COMMON["InternetCalls"]
     values["PropertyRights"] = COMMON["PropertyRights"]
+    if ad.get("title"):
+        values["Title"] = ad["title"]
     values["Description"] = ad["description"]
     values["Category"] = cat_cfg["Category"]
     values["OperationType"] = cat_cfg["OperationType"]

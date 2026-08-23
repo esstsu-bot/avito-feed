@@ -1,0 +1,41 @@
+{
+  "id": "bc-sredne-moskovskaya-92",
+  "category": "commercial_prodazha",
+  "address": "Воронеж, ул. Средне-Московская, 92",
+  "price": 250000000,
+  "title": "Продажа части БЦ с арендаторами",
+  "description": "Продаётся часть отдельно стоящего здания бизнес-центра общей площадью 3425,23 кв. м, расположенного по адресу: г. Воронеж, ул. Средне-Московская, 92, с наличием действующих арендаторов.\n\nЦентральный район города. Хорошее местоположение, первая линия. Остановка общественного транспорта в 5 минутах ходьбы.\n\nВ продаваемый объект входят: часть 1 этажа (входная группа, ресепшен, проход к лифту и лестнице), 2 этаж, большая часть 3 этажа, 4 этаж, 5 этаж. В здании есть парковка в подвале. Площадь земельного участка под зданием: 1165 кв. м.\n\nВид права: собственность, доля в местах общего пользования (МОП) в общедолевой собственности.\n\nЕсть собственный тепловой узел, централизованные вода, канализация, электричество. Присоединённая мощность 300 киловатт. Год постройки: 2013. Стены из бетона, перекрытия железобетонные. В здании есть атриум.\n\nПомещения заполнены арендаторами на 95%. Заключено 56 договоров аренды.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/1.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/2.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/3.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/4.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/5.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/6.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/7.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/8.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/9.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/10.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/11.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/12.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/13.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/14.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/15.jpg"
+  ],
+  "fields": {
+    "ObjectType": "Помещение свободного назначения",
+    "TransactionType": "Продажа",
+    "Floor": "1",
+    "Layout": "Кабинетная",
+    "Square": "3425.23",
+    "CeilingHeight": "3",
+    "Decoration": "Офисная",
+    "Heating": "Центральное",
+    "BuildingType": "Бизнес-центр",
+    "ParkingType": "В здании",
+    "Security": "Есть",
+    "CarAccess": "Есть",
+    "Lighting": "Есть",
+    "PowerSockets": "Есть"
+  }
+}

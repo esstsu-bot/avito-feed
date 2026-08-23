@@ -1,12 +1,63 @@
 <?xml version="1.0" ?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>bc-sredne-moskovskaya-92</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Title>Продажа части БЦ с арендаторами</Title>
+    <Description>Продаётся часть отдельно стоящего здания бизнес-центра общей площадью 3425,23 кв. м, расположенного по адресу: г. Воронеж, ул. Средне-Московская, 92, с наличием действующих арендаторов.
+Центральный район города. Хорошее местоположение, первая линия. Остановка общественного транспорта в 5 минутах ходьбы.
+В продаваемый объект входят: часть 1 этажа (входная группа, ресепшен, проход к лифту и лестнице), 2 этаж, большая часть 3 этажа, 4 этаж, 5 этаж. В здании есть парковка в подвале. Площадь земельного участка под зданием: 1165 кв. м.
+Вид права: собственность, доля в местах общего пользования (МОП) в общедолевой собственности.
+Есть собственный тепловой узел, централизованные вода, канализация, электричество. Присоединённая мощность 300 киловатт. Год постройки: 2013. Стены из бетона, перекрытия железобетонные. В здании есть атриум.
+Помещения заполнены арендаторами на 95%. Заключено 56 договоров аренды.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/6.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/7.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/8.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/9.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/10.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/11.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/12.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/13.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/14.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/bc-sredne-moskovskaya-92/15.jpg"/>
+    </Images>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
+    <Address>Воронеж, ул. Средне-Московская, 92</Address>
+    <Price>250000000</Price>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <TransactionType>Продажа</TransactionType>
+    <Floor>1</Floor>
+    <Layout>Кабинетная</Layout>
+    <Square>3425.23</Square>
+    <CeilingHeight>3</CeilingHeight>
+    <Decoration>Офисная</Decoration>
+    <Heating>Центральное</Heating>
+    <BuildingType>Бизнес-центр</BuildingType>
+    <ParkingType>В здании</ParkingType>
+    <Security>Есть</Security>
+    <CarAccess>Есть</CarAccess>
+    <Lighting>Есть</Lighting>
+    <PowerSockets>Есть</PowerSockets>
+  </Ad>
+  <Ad>
     <Id>office-plehanovskaya-53-zastava-8et</Id>
     <ManagerName>Софья</ManagerName>
     <ContactPhone>8 903 858-68-10</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Нет</InternetCalls>
     <PropertyRights>Посредник</PropertyRights>
+    <Title>Аренда офиса 73,8 м² в БЦ «Застава»</Title>
     <Description>Сдаётся офисное помещение 73,8 м² на 8 этаже бизнес-центра «Застава», Плехановская ул., 53, на пересечении с Донбасской, первая линия, центральная часть Воронежа.
 Планировка кабинетная, отделка офисная: окрашенные стены, линолеум на полу, потолок «Армстронг» со встроенным освещением, кассетные кондиционеры в каждом кабинете, радиаторное отопление, стеклянные перегородки между кабинетами. Панорамный вид на город из окон.
 О здании: БЦ класса B, 2015 года постройки, 20 этажей, 3 лифта, пропускная система, наземная парковка на 70 машиномест, вход с улицы. В здании: стойка ресепшн, конференц-зал, кафе и ресторан, отель, салон красоты, аптека, нотариальная контора.
@@ -52,6 +103,7 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Нет</InternetCalls>
     <PropertyRights>Посредник</PropertyRights>
+    <Title>Аренда офисного блока 152,7 м² в БЦ «117»</Title>
     <Description>Сдаётся блок офисных помещений 152,7 м² на 4 этаже бизнес-центра «117», Воронеж, проспект Труда, 117. Новый БЦ класса B+, сдан в 2025 году, 9 этажей, панорамное остекление, системы пожарной и охранной сигнализации.
 Блок сдаётся целиком, без разделения: 5 кабинетов площадью 13,8 м², 49,0 м², 23,9 м², 22,4 м² и 24,3 м², плюс коридор 19,3 м². Общая площадь 152,7 м². Отделка готовая, в стиле лофт: открытая кирпичная кладка, технический чёрный потолок с открытыми коммуникациями, пол керамогранит.
 Предусмотрена возможность подведения воды в каждый офис блока, это позволяет использовать помещение под медицинскую клинику, косметологию или салон красоты, а не только под классический офис.
