@@ -37,6 +37,7 @@
     <Price>250000000</Price>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <TransactionType>Продажа</TransactionType>
+    <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Layout>Кабинетная</Layout>
     <Square>3425.23</Square>

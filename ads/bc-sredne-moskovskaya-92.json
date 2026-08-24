@@ -25,6 +25,7 @@
   "fields": {
     "ObjectType": "Помещение свободного назначения",
     "TransactionType": "Продажа",
+    "Entrance": "С улицы",
     "Floor": "1",
     "Layout": "Кабинетная",
     "Square": "3425.23",
