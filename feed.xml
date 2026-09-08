@@ -1,6 +1,54 @@
 <?xml version="1.0" ?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>barnhouse-kavaleriyskaya-1b-floor1</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Description>Продаётся квартира 100,5 кв. м, расположенная в клубном коттедже «Барнхауз» на ул. Кавалерийская, 1Б, г. Воронеж. Заезд с набережной. Центральный район. Фасад дома смотрит на юго-восток, на водохранилище. Квартира расположена на первом высоком этаже. Окна выходят в тихий двор с ландшафтным дизайном, что создаёт ощущение приватности и тишину в квартире. Свободная планировка. Высота потолков 2,8 м. Черновая отделка, под стяжку заложена разводка системы «тёплый пол». Выполнены проёмы для конвекторов у остекления. Дом имеет автономное отопление, в каждой квартире в наличии настенный котёл. Именно эта квартира, кроме балкона, имеет выход на собственную террасу площадью 20 кв. м.
+Дом располагает придомовой территорией с детской площадкой, променадом и мангальной зоной. Есть возможность покупки гаража или парковочного места. Один собственник.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/1.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/2.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/3.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/4.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/5.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/6.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/7.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/8.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/9.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/10.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/12.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/13.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/14.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/15.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/16.JPG"/>
+    </Images>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <MarketType>Вторичка</MarketType>
+    <Address>Воронеж, ул. Кавалерийская, 1Б</Address>
+    <Price>13000000</Price>
+    <HouseType>Монолитный</HouseType>
+    <Floor>1</Floor>
+    <Floors>4</Floors>
+    <Rooms>3</Rooms>
+    <Square>100.5</Square>
+    <KitchenSpace>30</KitchenSpace>
+    <LivingSpace>60</LivingSpace>
+    <Status>Квартира</Status>
+    <RoomType>Изолированные</RoomType>
+    <Renovation>Требуется</Renovation>
+    <DealType>Прямая продажа</DealType>
+    <ViewFromWindows>Во двор</ViewFromWindows>
+    <CeilingHeight>2.8</CeilingHeight>
+    <BalconyOrLoggiaMulti>Балкон</BalconyOrLoggiaMulti>
+    <BathroomMulti>Совмещённый, Раздельный</BathroomMulti>
+    <NDAdditionally>Панорамные окна</NDAdditionally>
+  </Ad>
+  <Ad>
     <Id>bc-sredne-moskovskaya-92</Id>
     <ManagerName>Софья</ManagerName>
     <ContactPhone>8 903 858-68-10</ContactPhone>

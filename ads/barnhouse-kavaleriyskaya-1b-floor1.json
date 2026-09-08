@@ -1,0 +1,42 @@
+{
+  "id": "barnhouse-kavaleriyskaya-1b-floor1",
+  "category": "kvartira_prodazha_vtorichka",
+  "address": "Воронеж, ул. Кавалерийская, 1Б",
+  "price": 13000000,
+  "description": "Продаётся квартира 100,5 кв. м, расположенная в клубном коттедже «Барнхауз» на ул. Кавалерийская, 1Б, г. Воронеж. Заезд с набережной. Центральный район. Фасад дома смотрит на юго-восток, на водохранилище. Квартира расположена на первом высоком этаже. Окна выходят в тихий двор с ландшафтным дизайном, что создаёт ощущение приватности и тишину в квартире. Свободная планировка. Высота потолков 2,8 м. Черновая отделка, под стяжку заложена разводка системы «тёплый пол». Выполнены проёмы для конвекторов у остекления. Дом имеет автономное отопление, в каждой квартире в наличии настенный котёл. Именно эта квартира, кроме балкона, имеет выход на собственную террасу площадью 20 кв. м.\n\nДом располагает придомовой территорией с детской площадкой, променадом и мангальной зоной. Есть возможность покупки гаража или парковочного места. Один собственник.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/1.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/2.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/3.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/4.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/5.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/6.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/7.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/8.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/9.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/10.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/12.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/13.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/14.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/15.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/barnhouse-kavaleriyskaya-1b-floor1/16.JPG"
+  ],
+  "fields": {
+    "HouseType": "Монолитный",
+    "Floor": "1",
+    "Floors": "4",
+    "Rooms": "3",
+    "Square": "100.5",
+    "KitchenSpace": "30",
+    "LivingSpace": "60",
+    "Status": "Квартира",
+    "RoomType": "Изолированные",
+    "Renovation": "Требуется",
+    "DealType": "Прямая продажа",
+    "ViewFromWindows": "Во двор",
+    "CeilingHeight": "2.8",
+    "BalconyOrLoggiaMulti": "Балкон",
+    "BathroomMulti": "Совмещённый, Раздельный",
+    "NDAdditionally": "Панорамные окна"
+  }
+}
