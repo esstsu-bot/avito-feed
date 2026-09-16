@@ -193,4 +193,42 @@
     <ParkingType>На улице</ParkingType>
     <PriceType>в месяц за м2</PriceType>
   </Ad>
+  <Ad>
+    <Id>torgovoe-plehanovskaya-13</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Description>Сдаётся торговое помещение 90 м² на первом этаже жилого дома на ул. Плехановская, 13, Воронеж. Вход с улицы, отдельный. Высота потолков 4,6 м.
+Отделка готовая: окрашенные стены, плитка на полу, подвесной потолок со встроенным освещением, установлены сплит-системы. Рядом действующие точки стрит-ритейла (кафе, пиццерия), плотный пешеходный трафик.
+Аренда: 1000 ₽/м² в месяц плюс коммунальные платежи.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/5.jpg"/>
+    </Images>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <Address>Воронеж, ул. Плехановская, 13</Address>
+    <Price>1000</Price>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
+    <RentalType>Прямая</RentalType>
+    <RentalMinimumPeriod>11</RentalMinimumPeriod>
+    <LeaseDeposit>1 месяц</LeaseDeposit>
+    <ObjectType>Торговое помещение</ObjectType>
+    <BuildingType>Жилой дом</BuildingType>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Decoration>Офисная</Decoration>
+    <Square>90</Square>
+    <CeilingHeight>4.6</CeilingHeight>
+    <Lighting>Есть</Lighting>
+    <PowerSockets>Есть</PowerSockets>
+    <ParkingType>На улице</ParkingType>
+    <PriceType>в месяц за м2</PriceType>
+  </Ad>
 </Ads>
