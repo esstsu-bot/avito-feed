@@ -1,0 +1,27 @@
+{
+  "id": "sklad-perspektiva-babyakovo",
+  "category": "commercial_arenda",
+  "address": "Воронежская область, Новоусманский район, с. Бабяково, ул. Индустриальная, 3",
+  "price": 550000,
+  "title": "Аренда склада 1153,7 м² в индустриальном парке «Перспектива»",
+  "description": "Сдаётся складское помещение 1153,7 м² в индустриальном парке «Перспектива» (Воронежская область, Новоусманский район, с. Бабяково, ул. Индустриальная, 3).\n\nПарк «Перспектива»: первый частный индустриальный парк России в формате light industrial, аккредитован Ассоциацией индустриальных парков и особых экономических зон России. Территория парка около 230 га, более 150 компаний-резидентов. Собственная электроподстанция мощностью 9 МВт, газопровод, асфальтированные освещённые дороги, удобный выезд на трассы М4 и Р193, около 12 км от центра Воронежа.\n\nСклад отапливаемый, высота потолков 5 м, нагрузка на пол до 5 тонн на м². Собственная газовая котельная, септик, скважина для водоснабжения. Мощность электросети 15 кВт. Одни ворота размером 4105×4550 мм. Круглосуточный доступ. Есть санузел.\n\nАренда: 550 000 ₽ в месяц.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/1.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/2.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/3.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/4.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/5.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/6.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/7.jpg"
+  ],
+  "fields": {
+    "ObjectType": "Складское помещение",
+    "BuildingType": "Другой",
+    "Floor": "1",
+    "Square": "1153.7",
+    "CeilingHeight": "5",
+    "Heating": "Автономное",
+    "PowerGridCapacity": "15",
+    "PriceType": "в месяц"
+  }
+}

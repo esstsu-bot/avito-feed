@@ -194,6 +194,45 @@
     <PriceType>в месяц за м2</PriceType>
   </Ad>
   <Ad>
+    <Id>sklad-perspektiva-babyakovo</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Title>Аренда склада 1153,7 м² в индустриальном парке «Перспектива»</Title>
+    <Description>Сдаётся складское помещение 1153,7 м² в индустриальном парке «Перспектива» (Воронежская область, Новоусманский район, с. Бабяково, ул. Индустриальная, 3).
+Парк «Перспектива»: первый частный индустриальный парк России в формате light industrial, аккредитован Ассоциацией индустриальных парков и особых экономических зон России. Территория парка около 230 га, более 150 компаний-резидентов. Собственная электроподстанция мощностью 9 МВт, газопровод, асфальтированные освещённые дороги, удобный выезд на трассы М4 и Р193, около 12 км от центра Воронежа.
+Склад отапливаемый, высота потолков 5 м, нагрузка на пол до 5 тонн на м². Собственная газовая котельная, септик, скважина для водоснабжения. Мощность электросети 15 кВт. Одни ворота размером 4105×4550 мм. Круглосуточный доступ. Есть санузел.
+Аренда: 550 000 ₽ в месяц.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/6.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/sklad-perspektiva-babyakovo/7.jpg"/>
+    </Images>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <Address>Воронежская область, Новоусманский район, с. Бабяково, ул. Индустриальная, 3</Address>
+    <Price>550000</Price>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
+    <RentalType>Прямая</RentalType>
+    <RentalMinimumPeriod>11</RentalMinimumPeriod>
+    <LeaseDeposit>1 месяц</LeaseDeposit>
+    <ObjectType>Складское помещение</ObjectType>
+    <BuildingType>Другой</BuildingType>
+    <Floor>1</Floor>
+    <Square>1153.7</Square>
+    <CeilingHeight>5</CeilingHeight>
+    <Heating>Автономное</Heating>
+    <PowerGridCapacity>15</PowerGridCapacity>
+    <PriceType>в месяц</PriceType>
+  </Ad>
+  <Ad>
     <Id>torgovoe-plehanovskaya-13</Id>
     <ManagerName>Софья</ManagerName>
     <ContactPhone>8 903 858-68-10</ContactPhone>
