@@ -7,10 +7,15 @@
   "description": "Сдаётся в аренду помещение общей площадью 120 кв. м, расположенное на ул. Плехановская, д. 45, г. Воронеж. Место высокого автомобильного и пешеходного трафика. Угловое помещение, хорошо просматривается с дороги.\n\nТорговый зал расположен на первом этаже и составляет 93,4 кв. м. В цокольном этаже расположены санузел и комната персонала. Высокие потолки.\n\nЕсть пожарный выход, системы пожарной и охранной сигнализации, интернет, система кондиционирования.\n\nВозможное использование: магазин, аптека, банк, салон красоты, клиника.",
   "images": [
     "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/1.jpg",
-    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/2.jpg",
-    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/3.jpg",
-    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/4.jpg",
-    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/5.jpg"
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/2.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/3.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/4.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/5.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/6.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/7.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/8.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/9.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/10.jpg"
   ],
   "fields": {
     "ObjectType": "Торговое помещение",

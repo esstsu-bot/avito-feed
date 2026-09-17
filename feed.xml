@@ -291,10 +291,15 @@
 Возможное использование: магазин, аптека, банк, салон красоты, клиника.</Description>
     <Images>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/2.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/3.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/4.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/5.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/6.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/7.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/8.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/9.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/10.jpg"/>
     </Images>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
