@@ -186,6 +186,7 @@
     <Decoration>Офисная</Decoration>
     <Floor>1</Floor>
     <Square>107.2</Square>
+    <ParkingType>На улице</ParkingType>
     <PriceType>в месяц</PriceType>
   </Ad>
   <Ad>

@@ -26,6 +26,7 @@
     "Decoration": "Офисная",
     "Floor": "1",
     "Square": "107.2",
+    "ParkingType": "На улице",
     "PriceType": "в месяц"
   }
 }
