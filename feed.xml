@@ -146,6 +146,49 @@
     <PriceType>в месяц за м2</PriceType>
   </Ad>
   <Ad>
+    <Id>office-prospekt-revolyutsii-9a</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Title>Аренда помещения свободного назначения 107,2 м² на пр-те Революции</Title>
+    <Description>Сдаётся помещение свободного назначения 107,2 м² на первом этаже жилого дома на пр-те Революции, 9а, Воронеж. Центральный район, главный проспект города.
+Отдельный вход с улицы. Планировка: одно большое помещение около 59 м², плюс несколько смежных комнат меньшей площади, санузел. Интерьер в стиле лофт: окрашенные стены, полы плитка/ламинат, потолок бетонный.
+Подходит под магазин, шоурум, студию, офис, салон красоты или другой формат.
+Аренда: 140 000 ₽ в месяц плюс коммунальные платежи.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/6.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/7.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/8.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/9.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/10.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/11.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/12.jpg"/>
+    </Images>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <Address>Воронеж, пр-кт Революции, 9а</Address>
+    <Price>140000</Price>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
+    <RentalType>Прямая</RentalType>
+    <RentalMinimumPeriod>11</RentalMinimumPeriod>
+    <LeaseDeposit>1 месяц</LeaseDeposit>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <BuildingType>Жилой дом</BuildingType>
+    <Entrance>С улицы</Entrance>
+    <Decoration>Офисная</Decoration>
+    <Floor>1</Floor>
+    <Square>107.2</Square>
+    <PriceType>в месяц</PriceType>
+  </Ad>
+  <Ad>
     <Id>office-trud-117-bc</Id>
     <ManagerName>Софья</ManagerName>
     <ContactPhone>8 903 858-68-10</ContactPhone>

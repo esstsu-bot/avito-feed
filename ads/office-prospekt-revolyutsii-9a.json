@@ -1,0 +1,31 @@
+{
+  "id": "office-prospekt-revolyutsii-9a",
+  "category": "commercial_arenda",
+  "address": "Воронеж, пр-кт Революции, 9а",
+  "price": 140000,
+  "title": "Аренда помещения свободного назначения 107,2 м² на пр-те Революции",
+  "description": "Сдаётся помещение свободного назначения 107,2 м² на первом этаже жилого дома на пр-те Революции, 9а, Воронеж. Центральный район, главный проспект города.\n\nОтдельный вход с улицы. Планировка: одно большое помещение около 59 м², плюс несколько смежных комнат меньшей площади, санузел. Интерьер в стиле лофт: окрашенные стены, полы плитка/ламинат, потолок бетонный.\n\nПодходит под магазин, шоурум, студию, офис, салон красоты или другой формат.\n\nАренда: 140 000 ₽ в месяц плюс коммунальные платежи.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/1.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/2.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/3.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/4.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/5.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/6.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/7.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/8.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/9.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/10.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/11.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/office-prospekt-revolyutsii-9a/12.jpg"
+  ],
+  "fields": {
+    "ObjectType": "Помещение свободного назначения",
+    "BuildingType": "Жилой дом",
+    "Entrance": "С улицы",
+    "Decoration": "Офисная",
+    "Floor": "1",
+    "Square": "107.2",
+    "PriceType": "в месяц"
+  }
+}
