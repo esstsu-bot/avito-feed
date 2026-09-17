@@ -285,9 +285,10 @@
     <InternetCalls>Нет</InternetCalls>
     <PropertyRights>Посредник</PropertyRights>
     <Title>Аренда торгового помещения 120 м² на Плехановской, 45</Title>
-    <Description>Сдаётся торговое помещение 120 м² на первом этаже жилого дома на ул. Плехановская, 45, Воронеж. Вход с улицы, отдельный. Высота потолков 4,6 м.
-Отделка готовая: окрашенные стены, плитка на полу, подвесной потолок со встроенным освещением, установлены сплит-системы. Рядом действующие точки стрит-ритейла (кафе, пиццерия), плотный пешеходный трафик.
-Аренда: 95 000 ₽ в месяц плюс коммунальные платежи.</Description>
+    <Description>Сдаётся в аренду помещение общей площадью 120 кв. м, расположенное на ул. Плехановская, д. 45, г. Воронеж. Место высокого автомобильного и пешеходного трафика. Угловое помещение, хорошо просматривается с дороги.
+Торговый зал расположен на первом этаже и составляет 93,4 кв. м. В цокольном этаже расположены санузел и комната персонала. Высокие потолки.
+Есть пожарный выход, системы пожарной и охранной сигнализации, интернет, система кондиционирования.
+Возможное использование: магазин, аптека, банк, салон красоты, клиника.</Description>
     <Images>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/1.jpg"/>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/torgovoe-plehanovskaya-13/2.jpg"/>
@@ -298,7 +299,7 @@
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <Address>Воронеж, ул. Плехановская, 45</Address>
-    <Price>95000</Price>
+    <Price>120000</Price>
     <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
     <RentalType>Прямая</RentalType>
@@ -310,7 +311,6 @@
     <Floor>1</Floor>
     <Decoration>Офисная</Decoration>
     <Square>120</Square>
-    <CeilingHeight>4.6</CeilingHeight>
     <Lighting>Есть</Lighting>
     <PowerSockets>Есть</PowerSockets>
     <ParkingType>На улице</ParkingType>
