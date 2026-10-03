@@ -1,0 +1,43 @@
+{
+  "id": "kvartira-patriotov-31-1",
+  "category": "kvartira_prodazha_vtorichka",
+  "address": "Воронеж, проспект Патриотов, 31/2",
+  "price": 10000000,
+  "description": "Продаётся 3-комнатная квартира 83,2 м² на 5 этаже 17-этажного дома в Воронеже, проспект Патриотов, 31/2.\n\nВажно: квартира расположена в кирпичной секции дома, а не в панельной.\n\nКомнаты изолированные, санузел раздельный. Кухня 12,8 м². Высота потолков 2,8 м. Качественная отделка европейских производителей, новые радиаторы отопления. Тёплый пол в коридоре, ванной и на лоджии.\n\nКухня в классическом стиле, встроенная техника (духовой шкаф, варочная панель, вытяжка, посудомоечная машина), остаётся при продаже.\n\nСоветский район, рядом лесопарк «Оптимист». В шаговой доступности школы, детские сады, магазины (на первом этаже дома «Пятёрочка»), остановки общественного транспорта.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/1.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/2.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/3.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/4.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/6.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/8.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/9.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/10.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/11.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/12.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/13.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/14.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/15.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/16.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/17.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/18.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/19.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/20.jpg"
+  ],
+  "fields": {
+    "HouseType": "Кирпичный",
+    "Floor": "5",
+    "Floors": "17",
+    "Rooms": "3",
+    "Square": "83.2",
+    "KitchenSpace": "12.8",
+    "LivingSpace": "46.8",
+    "Status": "Квартира",
+    "RoomType": "Изолированные",
+    "Renovation": "Евро",
+    "DealType": "Прямая продажа",
+    "BathroomMulti": "Раздельный",
+    "CeilingHeight": "2.8",
+    "ApartmentNumber": "140"
+  }
+}

@@ -52,6 +52,58 @@
     <PowerSockets>Есть</PowerSockets>
   </Ad>
   <Ad>
+    <Id>kvartira-patriotov-31-1</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Description>Продаётся 3-комнатная квартира 83,2 м² на 5 этаже 17-этажного дома в Воронеже, проспект Патриотов, 31/2.
+Важно: квартира расположена в кирпичной секции дома, а не в панельной.
+Комнаты изолированные, санузел раздельный. Кухня 12,8 м². Высота потолков 2,8 м. Качественная отделка европейских производителей, новые радиаторы отопления. Тёплый пол в коридоре, ванной и на лоджии.
+Кухня в классическом стиле, встроенная техника (духовой шкаф, варочная панель, вытяжка, посудомоечная машина), остаётся при продаже.
+Советский район, рядом лесопарк «Оптимист». В шаговой доступности школы, детские сады, магазины (на первом этаже дома «Пятёрочка»), остановки общественного транспорта.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/1.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/2.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/3.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/4.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/6.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/8.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/9.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/10.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/11.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/12.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/13.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/14.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/15.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/16.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/17.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/18.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/19.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/20.jpg"/>
+    </Images>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <MarketType>Вторичка</MarketType>
+    <Address>Воронеж, проспект Патриотов, 31/2</Address>
+    <Price>10000000</Price>
+    <HouseType>Кирпичный</HouseType>
+    <Floor>5</Floor>
+    <Floors>17</Floors>
+    <Rooms>3</Rooms>
+    <Square>83.2</Square>
+    <KitchenSpace>12.8</KitchenSpace>
+    <LivingSpace>46.8</LivingSpace>
+    <Status>Квартира</Status>
+    <RoomType>Изолированные</RoomType>
+    <Renovation>Евро</Renovation>
+    <DealType>Прямая продажа</DealType>
+    <BathroomMulti>Раздельный</BathroomMulti>
+    <CeilingHeight>2.8</CeilingHeight>
+    <ApartmentNumber>140</ApartmentNumber>
+  </Ad>
+  <Ad>
     <Id>office-plehanovskaya-53-zastava-8et</Id>
     <ManagerName>Софья</ManagerName>
     <ContactPhone>8 903 858-68-10</ContactPhone>
