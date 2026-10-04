@@ -1,0 +1,81 @@
+{
+  "kvartira_prodazha_vtorichka": {"cian_category": "flatSale"},
+  "kvartira_prodazha_novostroyka": {"cian_category": "flatSale"},
+  "kvartira_arenda_dlitelno": {"cian_category": "flatRent"},
+  "kvartira_arenda_posutochno": {"cian_category": "flatRent"},
+  "dom_prodazha": {"cian_category": "houseSale"},
+  "dom_arenda_dlitelno": {"cian_category": "houseRent"},
+  "dom_arenda_posutochno": {"cian_category": "houseRent"},
+  "uchastok_prodazha": {"cian_category": "landSale"},
+  "uchastok_arenda": {"cian_category": "commercialLandRent"},
+  "commercial_arenda": {
+    "by_object_type": {
+      "Офисное помещение": "officeRent",
+      "Торговое помещение": "shoppingAreaRent",
+      "Складское помещение": "warehouseRent",
+      "Производственное помещение": "industryRent",
+      "Помещение свободного назначения": "freeAppointmentObjectRent",
+      "Здание": "buildingRent"
+    }
+  },
+  "commercial_prodazha": {
+    "by_object_type": {
+      "Офисное помещение": "officeSale",
+      "Торговое помещение": "shoppingAreaSale",
+      "Складское помещение": "warehouseSale",
+      "Производственное помещение": "industrySale",
+      "Помещение свободного назначения": "freeAppointmentObjectSale",
+      "Здание": "buildingSale"
+    }
+  },
+  "_enum_maps": {
+    "HouseType_to_MaterialType": {
+      "Кирпичный": "brick",
+      "Панельный": "panel",
+      "Блочный": "block",
+      "Монолитный": "monolith",
+      "Монолитно-кирпичный": "monolithBrick",
+      "Деревянный": "wood"
+    },
+    "Renovation_to_RepairType": {
+      "Требуется": "no",
+      "Косметический": "cosmetic",
+      "Евро": "euro",
+      "Дизайнерский": "design"
+    },
+    "Decoration_to_ConditionType": {
+      "Без отделки": "finishing",
+      "Чистовая": "cosmeticRepairsRequired",
+      "Офисная": "office"
+    },
+    "Heating_to_HeatingType": {
+      "Автономное": "autonomous",
+      "Центральное": "central",
+      "Нет": "no"
+    },
+    "BuildingType_to_Type": {
+      "Бизнес-центр": "businessCenter",
+      "Административное здание": "administrativeBuilding"
+    },
+    "RentalType_to_LeaseType": {
+      "Прямая": "direct",
+      "Субаренда": "sublease"
+    },
+    "DealType_to_SaleType": {
+      "Прямая продажа": "free",
+      "Альтернативная": "alternative"
+    },
+    "RoomType_to_CIAN": {
+      "Изолированные": "separate",
+      "Смежные": "combined"
+    },
+    "ViewFromWindows_to_WindowsViewType": {
+      "Во двор": "yard",
+      "На улицу": "street"
+    },
+    "ParkingType_to_Type": {
+      "На улице": "ground",
+      "В здании": "underground"
+    }
+  }
+}
