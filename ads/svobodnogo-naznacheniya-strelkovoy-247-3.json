@@ -1,0 +1,29 @@
+{
+  "id": "svobodnogo-naznacheniya-strelkovoy-247-3",
+  "category": "commercial_arenda",
+  "address": "Воронеж, ул. 45-й Стрелковой Дивизии, 247/3",
+  "price": 50000,
+  "title": "Аренда помещения 61,5 м² на Стрелковой Дивизии",
+  "description": "Сдаётся в аренду нежилое помещение общей площадью 61,5 кв. м, расположенное в новом жилом комплексе на ул. 45-й Стрелковой Дивизии, 247/3. Первый этаж жилого многоэтажного дома. Отдельная входная группа. По соседству Ozon и «Красное и Белое», «Пятёрочка» за углом. Помещение имеет правильную конфигурацию. Отделка выполнена по индивидуальному дизайнерскому проекту. Имеется антресоль плюс 20 кв. м к указанной основной площади. Высота потолков 3,5 м. Долгосрочная аренда приветствуется.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/1.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/2.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/3.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/4.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/5.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/6.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/7.jpeg"
+  ],
+  "fields": {
+    "ObjectType": "Помещение свободного назначения",
+    "BuildingType": "Жилой дом",
+    "Entrance": "С улицы",
+    "Floor": "1",
+    "Decoration": "Офисная",
+    "Square": "61.5",
+    "CeilingHeight": "3.5",
+    "Heating": "Центральное",
+    "ParkingType": "На улице",
+    "PriceType": "в месяц"
+  }
+}

@@ -282,6 +282,44 @@
     <PriceType>в месяц</PriceType>
   </Ad>
   <Ad>
+    <Id>svobodnogo-naznacheniya-strelkovoy-247-3</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Title>Аренда помещения 61,5 м² на Стрелковой Дивизии</Title>
+    <Description>Сдаётся в аренду нежилое помещение общей площадью 61,5 кв. м, расположенное в новом жилом комплексе на ул. 45-й Стрелковой Дивизии, 247/3. Первый этаж жилого многоэтажного дома. Отдельная входная группа. По соседству Ozon и «Красное и Белое», «Пятёрочка» за углом. Помещение имеет правильную конфигурацию. Отделка выполнена по индивидуальному дизайнерскому проекту. Имеется антресоль плюс 20 кв. м к указанной основной площади. Высота потолков 3,5 м. Долгосрочная аренда приветствуется.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/2.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/3.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/4.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/5.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/6.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/7.jpeg"/>
+    </Images>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <Address>Воронеж, ул. 45-й Стрелковой Дивизии, 247/3</Address>
+    <Price>50000</Price>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <AgentLeaseCommissionSize>50</AgentLeaseCommissionSize>
+    <RentalType>Прямая</RentalType>
+    <RentalMinimumPeriod>11</RentalMinimumPeriod>
+    <LeaseDeposit>1 месяц</LeaseDeposit>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <BuildingType>Жилой дом</BuildingType>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Decoration>Офисная</Decoration>
+    <Square>61.5</Square>
+    <CeilingHeight>3.5</CeilingHeight>
+    <Heating>Центральное</Heating>
+    <ParkingType>На улице</ParkingType>
+    <PriceType>в месяц</PriceType>
+  </Ad>
+  <Ad>
     <Id>torgovoe-plehanovskaya-13</Id>
     <ManagerName>Софья</ManagerName>
     <ContactPhone>8 903 858-68-10</ContactPhone>
