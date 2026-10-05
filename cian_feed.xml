@@ -434,6 +434,63 @@
     </BargainTerms>
   </object>
   <object>
+    <Category>freeAppointmentObjectRent</Category>
+    <ExternalId>svobodnogo-naznacheniya-strelkovoy-247-3</ExternalId>
+    <Description>Сдаётся в аренду нежилое помещение общей площадью 61,5 кв. м, расположенное в новом жилом комплексе на ул. 45-й Стрелковой Дивизии, 247/3. Первый этаж жилого многоэтажного дома. Отдельная входная группа. По соседству Ozon и «Красное и Белое», «Пятёрочка» за углом. Помещение имеет правильную конфигурацию. Отделка выполнена по индивидуальному дизайнерскому проекту. Имеется антресоль плюс 20 кв. м к указанной основной площади. Высота потолков 3,5 м. Долгосрочная аренда приветствуется.</Description>
+    <Address>Воронеж, ул. 45-й Стрелковой Дивизии, 247/3</Address>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9038586810</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>61.5</TotalArea>
+    <FloorNumber>1</FloorNumber>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/1.jpg</FullUrl>
+        <IsDefault>true</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/2.jpeg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/3.jpeg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/4.jpeg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/5.jpeg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/6.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/svobodnogo-naznacheniya-strelkovoy-247-3/7.jpeg</FullUrl>
+      </PhotoSchema>
+    </Photos>
+    <ConditionType>office</ConditionType>
+    <Building>
+      <HeatingType>central</HeatingType>
+      <CeilingHeight>3.5</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>50000</Price>
+      <PriceType>all</PriceType>
+      <Currency>rur</Currency>
+      <PaymentPeriod>monthly</PaymentPeriod>
+      <LeaseType>direct</LeaseType>
+      <SecurityDeposit>50000</SecurityDeposit>
+      <MinLeaseTerm>11</MinLeaseTerm>
+      <AgentBonus>
+        <Value>50</Value>
+        <PaymentType>percent</PaymentType>
+        <Currency>rur</Currency>
+      </AgentBonus>
+    </BargainTerms>
+  </object>
+  <object>
     <Category>shoppingAreaRent</Category>
     <ExternalId>torgovoe-plehanovskaya-13</ExternalId>
     <Description>Сдаётся в аренду помещение общей площадью 120 кв. м, расположенное на ул. Плехановская, д. 45, г. Воронеж. Место высокого автомобильного и пешеходного трафика. Угловое помещение, хорошо просматривается с дороги.
