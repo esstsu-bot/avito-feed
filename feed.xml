@@ -103,6 +103,43 @@
     <ApartmentNumber>140</ApartmentNumber>
   </Ad>
   <Ad>
+    <Id>kvartira-plehanovskaya-41</Id>
+    <ManagerName>Софья</ManagerName>
+    <ContactPhone>8 903 858-68-10</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Нет</InternetCalls>
+    <PropertyRights>Посредник</PropertyRights>
+    <Description>Продаётся квартира со свободной планировкой в центре г. Воронеж, общей площадью 69,5 кв. м по адресу: ул. Плехановская, 41. Высота потолков 3,2 м. Авторская дизайнерская отделка. Новые инженерные коммуникации. Полностью заменён пол до перекрытий и смонтирован новый согласно современным технологиям. Верхнее покрытие пола: паркетная доска. В квартире установлена немецкая кухня Nolte. Есть возможность доукомплектовать квартиру мебелью, встроенной техникой и аксессуарами по дизайн-проекту за отдельную плату. Парковка на территории закрытого охраняемого двора дома.</Description>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/2.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/3.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/4.jpeg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/6.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/7.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/8.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/9.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/10.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/11.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/12.jpg"/>
+    </Images>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <MarketType>Вторичка</MarketType>
+    <Address>Воронеж, ул. Плехановская, 41</Address>
+    <Price>10700000</Price>
+    <HouseType>Кирпичный</HouseType>
+    <Floor>3</Floor>
+    <Floors>4</Floors>
+    <Rooms>Своб. планировка</Rooms>
+    <Square>69.5</Square>
+    <Status>Квартира</Status>
+    <Renovation>Дизайнерский</Renovation>
+    <DealType>Прямая продажа</DealType>
+    <CeilingHeight>3.2</CeilingHeight>
+  </Ad>
+  <Ad>
     <Id>office-plehanovskaya-53-zastava-8et</Id>
     <ManagerName>Софья</ManagerName>
     <ContactPhone>8 903 858-68-10</ContactPhone>

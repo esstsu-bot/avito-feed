@@ -1,0 +1,32 @@
+{
+  "id": "kvartira-plehanovskaya-41",
+  "category": "kvartira_prodazha_vtorichka",
+  "address": "Воронеж, ул. Плехановская, 41",
+  "price": 10700000,
+  "description": "Продаётся квартира со свободной планировкой в центре г. Воронеж, общей площадью 69,5 кв. м по адресу: ул. Плехановская, 41. Высота потолков 3,2 м. Авторская дизайнерская отделка. Новые инженерные коммуникации. Полностью заменён пол до перекрытий и смонтирован новый согласно современным технологиям. Верхнее покрытие пола: паркетная доска. В квартире установлена немецкая кухня Nolte. Есть возможность доукомплектовать квартиру мебелью, встроенной техникой и аксессуарами по дизайн-проекту за отдельную плату. Парковка на территории закрытого охраняемого двора дома.",
+  "images": [
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/1.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/2.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/3.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/4.jpeg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/5.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/6.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/7.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/8.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/9.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/10.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/11.jpg",
+    "https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-plehanovskaya-41/12.jpg"
+  ],
+  "fields": {
+    "HouseType": "Кирпичный",
+    "Floor": "3",
+    "Floors": "4",
+    "Rooms": "Своб. планировка",
+    "Square": "69.5",
+    "Status": "Квартира",
+    "Renovation": "Дизайнерский",
+    "DealType": "Прямая продажа",
+    "CeilingHeight": "3.2"
+  }
+}
