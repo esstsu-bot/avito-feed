@@ -58,13 +58,13 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Нет</InternetCalls>
     <PropertyRights>Посредник</PropertyRights>
-    <Description>Продаётся 3-комнатная квартира 83,2 м² на 5 этаже 17-этажного дома в Воронеже, проспект Патриотов, 31/2.
+    <Description>Продаётся 3-комнатная квартира 83,2 м² на 5 этаже 17-этажного дома в Воронеже, проспект Патриотов, 31/2. Срочная продажа.
 Важно: квартира расположена в кирпичной секции дома, а не в панельной.
-Комнаты изолированные, санузел раздельный. Кухня 12,8 м². Высота потолков 2,8 м. Качественная отделка европейских производителей, новые радиаторы отопления. Тёплый пол в коридоре, ванной и на лоджии.
-Кухня в классическом стиле, встроенная техника (духовой шкаф, варочная панель, вытяжка, посудомоечная машина), остаётся при продаже.
+Комнаты изолированные, санузел раздельный. Кухня 12,8 м². Высота потолков 2,8 м. Натяжные потолки. Качественная отделка европейских производителей, новые радиаторы отопления. Тёплый пол в коридоре, ванной и на лоджии.
+При продаже остаются: кухня в классическом стиле со встроенной техникой (духовой шкаф, варочная панель, вытяжка, посудомоечная машина), шкаф-купе в прихожей, встроенная мебель в ванной, шкаф-купе на лоджии, встроенный бойлер в технической зоне.
+Один собственник, документы готовы к сделке. Подходит под все виды ипотеки.
 Советский район, рядом лесопарк «Оптимист». В шаговой доступности школы, детские сады, магазины (на первом этаже дома «Пятёрочка»), остановки общественного транспорта.</Description>
     <Images>
-      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/1.jpeg"/>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/2.jpeg"/>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/3.jpeg"/>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/4.jpeg"/>
@@ -81,12 +81,13 @@
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/18.jpeg"/>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/19.jpeg"/>
       <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/20.jpg"/>
+      <Image url="https://raw.githubusercontent.com/esstsu-bot/avito-feed/main/photos/kvartira-patriotov-31-1/1.jpeg"/>
     </Images>
     <Category>Квартиры</Category>
     <OperationType>Продам</OperationType>
     <MarketType>Вторичка</MarketType>
     <Address>Воронеж, проспект Патриотов, 31/2</Address>
-    <Price>9200000</Price>
+    <Price>8850000</Price>
     <HouseType>Кирпичный</HouseType>
     <Floor>5</Floor>
     <Floors>17</Floors>
